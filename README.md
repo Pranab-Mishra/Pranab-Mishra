@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranab-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="pranab-mishra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranab-mishra" alt="pranab-mishra" /></a> </p>
+
 
 - 📫 How to reach me **mishrapranab0@gmail.com**
 
